@@ -1,8 +1,8 @@
 <style>
 body {
- background: lightcyan;
- width: 800px;
- margin: auto;
+  background: lightcyan;
+  width: 800px;
+  margin: auto;
 }
 
 h1 {
@@ -10,7 +10,7 @@ h1 {
   text-align: center;
 }
 
-P {
+p {
   color: gray;
   border: 1px solid gray;
   padding: 10px;
